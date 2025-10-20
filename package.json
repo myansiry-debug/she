@@ -1,0 +1,13 @@
+{
+  "name": "myansiry-chat-api",
+  "version": "1.0.0",
+  "description": "Chat API for MyAnsiry App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "MyAnsiry",
+  "license": "ISC"
+}
